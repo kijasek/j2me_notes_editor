@@ -1,4 +1,15 @@
-j2me_notes_editor
-=================
+                                        Notes editor for Java Micro Edition
 
-J2ME Notes editor
+Features:
+
+  -- enables user to create text notes 
+  -- notes can be stored in phone's filesystem or in J2ME record management system
+  -- stored notes can be opened and edited
+  -- user can delete selected notes
+
+How to build and run:
+
+  -- .jar package can be created using Sun Java Wireless Toolkit for CLDC version 2.5.2
+  -- .jar file should be uploaded to the phone and installed
+  -- choose MuuEditor from the phone's application menu
+  
